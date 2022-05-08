@@ -1,6 +1,6 @@
-# manishbarikmb.github.io
+# Abinsh Paltasingh
 Happy Birthday
 
 A simple birthday page made using Bootstrap & scrollReveal.js
 
-https://manishbarikmb.github.io/
+https://github.com/Abinash-Paltasingh/manishbarikmb.github.io.git
